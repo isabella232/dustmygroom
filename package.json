@@ -5,7 +5,9 @@
   "main": "bundle.js",
   "devDependencies": {
     "clear": "0.0.1",
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
+    "fancy-log": "2.0.0",
+    "ansi-colors": "4.1.1",
     "gulp-util": "3.0.7",
     "st": "1.1.0"
   },
